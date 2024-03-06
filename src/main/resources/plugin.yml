@@ -1,0 +1,14 @@
+name: Aurelius
+version: '1.0'
+main: net.faceless.aurelius.Aurelius
+api-version: '1.20'
+commands:
+  aurelius:
+    description: Main Command
+    usage: /aurelius
+    aliases:
+      - a
+      - au
+  packet:
+    description: Packet Main Command
+    usage: /packet
